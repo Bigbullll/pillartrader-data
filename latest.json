@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-09T17:11:56.699661+00:00",
+  "last_updated": "2026-10-12T20:01:51.833232+00:00",
   "daily": {
-    "new_entries": [
-      {
-        "symbol": "CYIENT",
-        "entry_price": 1158.800048828125,
-        "stop_loss": 1108.7910560626221,
-        "breakout_date": "2026-10-05",
-        "humble_date": "2026-10-07",
-        "entry_date": "2026-10-09",
-        "support_level": "EMA10",
-        "breakout_high": 1173.5
-      }
-    ],
+    "new_entries": [],
     "humble_zone": [
       {
         "symbol": "ANGELONE",
@@ -418,7 +407,7 @@
       {
         "symbol": "AEGISLOG",
         "entry_price": 1353.5999755859375,
-        "stop_loss": 1337.8784254806508,
+        "stop_loss": 1337.8784255171438,
         "breakout_date": "2026-06-08",
         "humble_date": "2026-08-31",
         "entry_date": "2026-09-07",
@@ -438,7 +427,7 @@
       {
         "symbol": "COFORGE",
         "entry_price": 1826.0,
-        "stop_loss": 1808.190922585102,
+        "stop_loss": 1808.1909225557004,
         "breakout_date": "2026-07-27",
         "humble_date": "2026-09-21",
         "entry_date": "2026-09-28",
@@ -448,7 +437,7 @@
       {
         "symbol": "GABRIEL",
         "entry_price": 1386.699951171875,
-        "stop_loss": 1348.194277929303,
+        "stop_loss": 1348.1942779150513,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-08-24",
         "entry_date": "2026-09-21",
@@ -458,7 +447,7 @@
       {
         "symbol": "GRAPHITE",
         "entry_price": 733.5999755859375,
-        "stop_loss": 767.9233127988346,
+        "stop_loss": 767.9233127936953,
         "breakout_date": "2026-08-03",
         "humble_date": "2026-08-24",
         "entry_date": "2026-08-31",
@@ -468,7 +457,7 @@
       {
         "symbol": "HFCL",
         "entry_price": 238.36000061035156,
-        "stop_loss": 228.33748998597935,
+        "stop_loss": 228.33748997954453,
         "breakout_date": "2026-04-27",
         "humble_date": "2026-07-27",
         "entry_date": "2026-09-28",
@@ -488,7 +477,7 @@
       {
         "symbol": "LALPATHLAB",
         "entry_price": 1635.800048828125,
-        "stop_loss": 1902.3338471458762,
+        "stop_loss": 1902.3338470811607,
         "breakout_date": "2026-05-04",
         "humble_date": "2026-06-01",
         "entry_date": "2026-06-15",
@@ -498,7 +487,7 @@
       {
         "symbol": "PTCIL",
         "entry_price": 19076.0,
-        "stop_loss": 21934.311404691638,
+        "stop_loss": 21934.31140434459,
         "breakout_date": "2026-06-01",
         "humble_date": "2026-06-22",
         "entry_date": "2026-08-03",
@@ -508,7 +497,7 @@
       {
         "symbol": "RBLBANK",
         "entry_price": 375.5,
-        "stop_loss": 403.0229165831188,
+        "stop_loss": 403.022916583853,
         "breakout_date": "2026-04-27",
         "humble_date": "2026-07-20",
         "entry_date": "2026-07-27",
@@ -518,7 +507,7 @@
       {
         "symbol": "REDINGTON",
         "entry_price": 321.6499938964844,
-        "stop_loss": 369.39268703462767,
+        "stop_loss": 369.3926870265086,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-07-20",
         "entry_date": "2026-07-27",
@@ -528,7 +517,7 @@
       {
         "symbol": "SANSERA",
         "entry_price": 2337.5,
-        "stop_loss": 4023.87814371702,
+        "stop_loss": 4023.8781436682184,
         "breakout_date": "2026-02-09",
         "humble_date": "2026-03-09",
         "entry_date": "2026-04-06",
@@ -538,7 +527,7 @@
       {
         "symbol": "STLTECH",
         "entry_price": 638.9000244140625,
-        "stop_loss": 814.9671208252761,
+        "stop_loss": 814.9671208275219,
         "breakout_date": "2026-02-02",
         "humble_date": "2026-07-13",
         "entry_date": "2026-08-03",
@@ -548,7 +537,7 @@
       {
         "symbol": "TBOTEK",
         "entry_price": 1531.199951171875,
-        "stop_loss": 1645.0671464321372,
+        "stop_loss": 1645.067146393485,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-07-20",
         "entry_date": "2026-07-27",
@@ -558,7 +547,7 @@
       {
         "symbol": "TDPOWERSYS",
         "entry_price": 742.2999877929688,
-        "stop_loss": 743.4166873414936,
+        "stop_loss": 743.4166873498286,
         "breakout_date": "2026-05-11",
         "humble_date": "2026-06-08",
         "entry_date": "2026-08-10",
@@ -578,7 +567,7 @@
       {
         "symbol": "WELSPUNLIV",
         "entry_price": 189.22000122070312,
-        "stop_loss": 206.50960675242695,
+        "stop_loss": 206.50960675430989,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-07-27",
         "entry_date": "2026-08-17",
