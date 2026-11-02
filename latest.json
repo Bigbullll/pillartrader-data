@@ -1,48 +1,7 @@
 {
-  "last_updated": "2026-10-30T16:50:34.188168+00:00",
+  "last_updated": "2026-11-02T20:31:51.738180+00:00",
   "daily": {
-    "new_entries": [
-      {
-        "symbol": "HCLTECH",
-        "entry_price": 1428.0999755859375,
-        "stop_loss": 1394.4016564695623,
-        "breakout_date": "2026-10-13",
-        "humble_date": "2026-10-28",
-        "entry_date": "2026-10-30",
-        "support_level": "EMA10",
-        "breakout_high": 1467.5
-      },
-      {
-        "symbol": "NAVINFLUOR",
-        "entry_price": 8680.0,
-        "stop_loss": 8261.103552954906,
-        "breakout_date": "2026-10-27",
-        "humble_date": "2026-10-29",
-        "entry_date": "2026-10-30",
-        "support_level": "EMA10",
-        "breakout_high": 8634.0
-      },
-      {
-        "symbol": "PERSISTENT",
-        "entry_price": 6048.0,
-        "stop_loss": 5846.069010074462,
-        "breakout_date": "2026-10-13",
-        "humble_date": "2026-10-16",
-        "entry_date": "2026-10-30",
-        "support_level": "EMA10",
-        "breakout_high": 6078.0
-      },
-      {
-        "symbol": "WIPRO",
-        "entry_price": 198.30999755859375,
-        "stop_loss": 186.79517528224443,
-        "breakout_date": "2026-10-16",
-        "humble_date": "2026-10-28",
-        "entry_date": "2026-10-30",
-        "support_level": "EMA10",
-        "breakout_high": 197.25
-      }
-    ],
+    "new_entries": [],
     "humble_zone": [
       {
         "symbol": "APLAPOLLO",
@@ -527,7 +486,7 @@
       {
         "symbol": "COFORGE",
         "entry_price": 1826.0,
-        "stop_loss": 1882.470312956024,
+        "stop_loss": 1882.4703130253129,
         "breakout_date": "2026-07-27",
         "humble_date": "2026-09-21",
         "entry_date": "2026-09-28",
@@ -537,7 +496,7 @@
       {
         "symbol": "GABRIEL",
         "entry_price": 1386.699951171875,
-        "stop_loss": 1377.7641043620938,
+        "stop_loss": 1377.7641043515132,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-08-24",
         "entry_date": "2026-09-21",
@@ -557,7 +516,7 @@
       {
         "symbol": "KARURVYSYA",
         "entry_price": 339.8999938964844,
-        "stop_loss": 339.5709471496224,
+        "stop_loss": 339.57094715012624,
         "breakout_date": "2026-07-20",
         "humble_date": "2026-09-07",
         "entry_date": "2026-10-05",
@@ -567,7 +526,7 @@
       {
         "symbol": "PTCIL",
         "entry_price": 19076.0,
-        "stop_loss": 22860.295276496996,
+        "stop_loss": 22860.29527623226,
         "breakout_date": "2026-06-01",
         "humble_date": "2026-06-22",
         "entry_date": "2026-08-03",
@@ -577,7 +536,7 @@
       {
         "symbol": "PVRINOX",
         "entry_price": 1327.199951171875,
-        "stop_loss": 1321.1937270887172,
+        "stop_loss": 1321.1937269949585,
         "breakout_date": "2026-07-20",
         "humble_date": "2026-09-28",
         "entry_date": "2026-10-05",
@@ -597,7 +556,7 @@
       {
         "symbol": "WELSPUNLIV",
         "entry_price": 189.22000122070312,
-        "stop_loss": 210.85922155573144,
+        "stop_loss": 210.85922155807216,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-07-27",
         "entry_date": "2026-08-17",
