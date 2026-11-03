@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-11-02T20:31:51.738180+00:00",
+  "last_updated": "2026-11-03T18:02:37.873064+00:00",
   "daily": {
-    "new_entries": [],
+    "new_entries": [
+      {
+        "symbol": "TATACAP",
+        "entry_price": 333.79998779296875,
+        "stop_loss": 319.5934235853233,
+        "breakout_date": "2026-10-29",
+        "humble_date": "2026-10-30",
+        "entry_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 328.45001220703125
+      }
+    ],
     "humble_zone": [
       {
         "symbol": "APLAPOLLO",
@@ -11,18 +22,11 @@
         "breakout_high": 2219.0
       },
       {
-        "symbol": "CDSL",
-        "breakout_date": "2026-10-29",
-        "humble_date": "2026-10-30",
+        "symbol": "CASTROLIND",
+        "breakout_date": "2026-11-02",
+        "humble_date": "2026-11-03",
         "support_level": "EMA10",
-        "breakout_high": 1286.0
-      },
-      {
-        "symbol": "FEDERALBNK",
-        "breakout_date": "2026-10-16",
-        "humble_date": "2026-10-23",
-        "support_level": "EMA20",
-        "breakout_high": 355.5
+        "breakout_high": 197.7899932861328
       },
       {
         "symbol": "GODIGIT",
@@ -39,11 +43,25 @@
         "breakout_high": 1118.0
       },
       {
+        "symbol": "MANKIND",
+        "breakout_date": "2026-10-27",
+        "humble_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 2549.0
+      },
+      {
         "symbol": "MPHASIS",
         "breakout_date": "2026-10-13",
         "humble_date": "2026-10-22",
         "support_level": "EMA10",
         "breakout_high": 2601.39990234375
+      },
+      {
+        "symbol": "OIL",
+        "breakout_date": "2026-11-02",
+        "humble_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 464.3999938964844
       },
       {
         "symbol": "PATANJALI",
@@ -60,17 +78,10 @@
         "breakout_high": 899.0
       },
       {
-        "symbol": "TATACAP",
-        "breakout_date": "2026-10-29",
-        "humble_date": "2026-10-30",
-        "support_level": "EMA10",
-        "breakout_high": 328.45001220703125
-      },
-      {
         "symbol": "TATAELXSI",
         "breakout_date": "2026-10-13",
         "humble_date": "2026-10-23",
-        "support_level": "EMA10",
+        "support_level": "EMA20",
         "breakout_high": 3915.0
       },
       {
@@ -83,45 +94,132 @@
     ],
     "broken_out": [
       {
+        "symbol": "360ONE",
+        "breakout_date": "2026-11-03",
+        "breakout_high": 1070.0
+      },
+      {
         "symbol": "ACUTAAS",
         "breakout_date": "2026-10-27",
         "support_level": "EMA10",
-        "breakout_high": 4032.199951171875
+        "breakout_high": 4045.300048828125
       },
       {
         "symbol": "ADANIPORTS",
         "breakout_date": "2026-10-29",
         "support_level": "EMA10",
-        "breakout_high": 1872.0
+        "breakout_high": 1875.199951171875
       },
       {
-        "symbol": "AETHER",
-        "breakout_date": "2026-10-30",
-        "breakout_high": 1692.4000244140625
+        "symbol": "AFFLE",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1600.0
+      },
+      {
+        "symbol": "ANGELONE",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 315.8500061035156
+      },
+      {
+        "symbol": "ASAHIINDIA",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 1014.9500122070312
+      },
+      {
+        "symbol": "ASIANPAINT",
+        "breakout_date": "2026-11-03",
+        "breakout_high": 2443.39990234375
       },
       {
         "symbol": "ATHERENERG",
         "breakout_date": "2026-10-26",
         "support_level": "EMA10",
-        "breakout_high": 1784.5
+        "breakout_high": 1809.5
+      },
+      {
+        "symbol": "BANKBARODA",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 250.88999938964844
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 50500.0
+      },
+      {
+        "symbol": "BRITANNIA",
+        "breakout_date": "2026-11-03",
+        "breakout_high": 4930.0
+      },
+      {
+        "symbol": "CHOICEIN",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 764.0
       },
       {
         "symbol": "CHOLAFIN",
         "breakout_date": "2026-10-29",
         "support_level": "EMA10",
-        "breakout_high": 1623.0
+        "breakout_high": 1678.0
       },
       {
         "symbol": "COFORGE",
         "breakout_date": "2026-10-30",
         "support_level": "EMA10",
-        "breakout_high": 2061.800048828125
+        "breakout_high": 2112.199951171875
+      },
+      {
+        "symbol": "DELHIVERY",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 423.0
+      },
+      {
+        "symbol": "DIXON",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 12498.0
       },
       {
         "symbol": "DRREDDY",
         "breakout_date": "2026-10-26",
         "support_level": "EMA10",
-        "breakout_high": 1363.699951171875
+        "breakout_high": 1368.300048828125
+      },
+      {
+        "symbol": "EMCURE",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 2071.800048828125
+      },
+      {
+        "symbol": "ENGINERSIN",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 295.70001220703125
+      },
+      {
+        "symbol": "FLUOROCHEM",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 4600.0
+      },
+      {
+        "symbol": "GLENMARK",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 2420.0
+      },
+      {
+        "symbol": "GRSE",
+        "breakout_date": "2026-11-03",
+        "breakout_high": 2235.0
       },
       {
         "symbol": "IGIL",
@@ -132,7 +230,14 @@
       {
         "symbol": "INDIGO",
         "breakout_date": "2026-10-30",
-        "breakout_high": 4877.60009765625
+        "support_level": "EMA10",
+        "breakout_high": 5120.10009765625
+      },
+      {
+        "symbol": "IOC",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 138.89999389648438
       },
       {
         "symbol": "ITCHOTELS",
@@ -141,34 +246,86 @@
         "breakout_high": 174.39999389648438
       },
       {
+        "symbol": "ITI",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 279.989990234375
+      },
+      {
+        "symbol": "JKCEMENT",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 5120.39990234375
+      },
+      {
         "symbol": "JSWENERGY",
         "breakout_date": "2026-10-29",
         "support_level": "EMA10",
         "breakout_high": 516.5999755859375
       },
       {
+        "symbol": "KIRLOSBROS",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1864.0
+      },
+      {
         "symbol": "LAURUSLABS",
         "breakout_date": "2026-10-30",
         "support_level": "EMA10",
-        "breakout_high": 2405.5
+        "breakout_high": 2441.89990234375
       },
       {
         "symbol": "LTTS",
         "breakout_date": "2026-10-14",
         "support_level": "EMA10",
-        "breakout_high": 4297.39990234375
+        "breakout_high": 4347.39990234375
       },
       {
-        "symbol": "MANKIND",
-        "breakout_date": "2026-10-27",
+        "symbol": "MARICO",
+        "breakout_date": "2026-11-03",
         "support_level": "EMA10",
-        "breakout_high": 2549.0
+        "breakout_high": 878.4000244140625
+      },
+      {
+        "symbol": "MCX",
+        "breakout_date": "2026-11-03",
+        "breakout_high": 3538.0
+      },
+      {
+        "symbol": "MINDACORP",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 713.9500122070312
+      },
+      {
+        "symbol": "MOTILALOFS",
+        "breakout_date": "2026-11-03",
+        "breakout_high": 1031.75
+      },
+      {
+        "symbol": "MSUMI",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 40.099998474121094
+      },
+      {
+        "symbol": "NBCC",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 76.95999908447266
+      },
+      {
+        "symbol": "NH",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1924.300048828125
       },
       {
         "symbol": "NHPC",
         "breakout_date": "2026-10-27",
         "support_level": "EMA10",
-        "breakout_high": 77.73999786376953
+        "breakout_high": 79.94999694824219
       },
       {
         "symbol": "ONESOURCE",
@@ -180,79 +337,116 @@
         "symbol": "PGEL",
         "breakout_date": "2026-10-28",
         "support_level": "EMA10",
-        "breakout_high": 546.9000244140625
+        "breakout_high": 547.0
       },
       {
         "symbol": "POONAWALLA",
         "breakout_date": "2026-10-29",
         "support_level": "EMA10",
-        "breakout_high": 468.0
+        "breakout_high": 491.75
       },
       {
         "symbol": "PPLPHARMA",
         "breakout_date": "2026-10-28",
         "support_level": "EMA10",
-        "breakout_high": 240.0
+        "breakout_high": 243.1999969482422
+      },
+      {
+        "symbol": "RELIANCE",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1307.9000244140625
+      },
+      {
+        "symbol": "RKFORGE",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 711.0
       },
       {
         "symbol": "SAILIFE",
         "breakout_date": "2026-10-30",
         "support_level": "EMA10",
-        "breakout_high": 1568.0
+        "breakout_high": 1580.0
+      },
+      {
+        "symbol": "SJVN",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 58.97999954223633
+      },
+      {
+        "symbol": "SOLARINDS",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 20880.0
       },
       {
         "symbol": "SONACOMS",
         "breakout_date": "2026-10-27",
         "support_level": "EMA10",
-        "breakout_high": 899.0
+        "breakout_high": 911.25
       },
       {
         "symbol": "SYNGENE",
         "breakout_date": "2026-10-28",
         "support_level": "EMA10",
-        "breakout_high": 418.8500061035156
-      },
-      {
-        "symbol": "SYRMA",
-        "breakout_date": "2026-10-29",
-        "support_level": "EMA10",
-        "breakout_high": 1686.0
+        "breakout_high": 419.0
       },
       {
         "symbol": "TATACONSUM",
         "breakout_date": "2026-10-27",
         "support_level": "EMA10",
-        "breakout_high": 1028.9000244140625
+        "breakout_high": 1073.0
+      },
+      {
+        "symbol": "TRIDENT",
+        "breakout_date": "2026-11-03",
+        "support_level": "EMA10",
+        "breakout_high": 25.190000534057617
+      },
+      {
+        "symbol": "UNOMINDA",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1151.0
       },
       {
         "symbol": "VEDPOWER",
         "breakout_date": "2026-10-30",
-        "breakout_high": 34.650001525878906
+        "support_level": "EMA10",
+        "breakout_high": 36.689998626708984
       },
       {
         "symbol": "WELSPUNLIV",
         "breakout_date": "2026-10-30",
         "support_level": "EMA10",
-        "breakout_high": 227.0
+        "breakout_high": 257.0899963378906
       },
       {
         "symbol": "ZENSARTECH",
         "breakout_date": "2026-10-29",
         "support_level": "EMA10",
-        "breakout_high": 553.7999877929688
+        "breakout_high": 562.5
+      },
+      {
+        "symbol": "ZENTEC",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1805.699951171875
       },
       {
         "symbol": "ZYDUSLIFE",
         "breakout_date": "2026-10-30",
         "support_level": "EMA10",
-        "breakout_high": 1248.9000244140625
+        "breakout_high": 1254.199951171875
       }
     ],
     "in_trade": [
       {
         "symbol": "BHARTIARTL",
         "entry_price": 1978.800048828125,
-        "stop_loss": 1924.9470894193987,
+        "stop_loss": 1960.0736750613587,
         "breakout_date": "2026-10-16",
         "humble_date": "2026-10-23",
         "entry_date": "2026-10-27",
@@ -262,7 +456,7 @@
       {
         "symbol": "BSOFT",
         "entry_price": 342.5,
-        "stop_loss": 314.0861431523646,
+        "stop_loss": 317.7279153225863,
         "breakout_date": "2026-10-13",
         "humble_date": "2026-10-23",
         "entry_date": "2026-10-29",
@@ -270,9 +464,19 @@
         "breakout_high": 325.5
       },
       {
+        "symbol": "HCLTECH",
+        "entry_price": 1428.0999755859375,
+        "stop_loss": 1408.41928625558,
+        "breakout_date": "2026-10-13",
+        "humble_date": "2026-10-28",
+        "entry_date": "2026-10-30",
+        "support_level": "EMA10",
+        "breakout_high": 1467.5
+      },
+      {
         "symbol": "INDHOTEL",
         "entry_price": 782.2999877929688,
-        "stop_loss": 788.5751361538719,
+        "stop_loss": 802.2536013215613,
         "breakout_date": "2026-10-16",
         "humble_date": "2026-10-21",
         "entry_date": "2026-10-22",
@@ -290,19 +494,29 @@
         "breakout_high": 1041.0
       },
       {
-        "symbol": "PNB",
-        "entry_price": 121.2699966430664,
-        "stop_loss": 120.97125824387575,
-        "breakout_date": "2026-10-19",
-        "humble_date": "2026-10-23",
-        "entry_date": "2026-10-27",
+        "symbol": "NAVINFLUOR",
+        "entry_price": 8680.0,
+        "stop_loss": 8331.548659416094,
+        "breakout_date": "2026-10-27",
+        "humble_date": "2026-10-29",
+        "entry_date": "2026-10-30",
         "support_level": "EMA10",
-        "breakout_high": 125.22000122070312
+        "breakout_high": 8634.0
+      },
+      {
+        "symbol": "PERSISTENT",
+        "entry_price": 6048.0,
+        "stop_loss": 5922.178428231664,
+        "breakout_date": "2026-10-13",
+        "humble_date": "2026-10-16",
+        "entry_date": "2026-10-30",
+        "support_level": "EMA10",
+        "breakout_high": 6078.0
       },
       {
         "symbol": "PVRINOX",
         "entry_price": 1464.0,
-        "stop_loss": 1436.7780280374095,
+        "stop_loss": 1463.9307387778836,
         "breakout_date": "2026-10-07",
         "humble_date": "2026-10-23",
         "entry_date": "2026-10-27",
@@ -312,12 +526,22 @@
       {
         "symbol": "UNIONBANK",
         "entry_price": 184.60000610351562,
-        "stop_loss": 181.91201048251037,
+        "stop_loss": 182.75432051193937,
         "breakout_date": "2026-10-19",
         "humble_date": "2026-10-23",
         "entry_date": "2026-10-27",
         "support_level": "EMA10",
         "breakout_high": 186.0
+      },
+      {
+        "symbol": "WIPRO",
+        "entry_price": 198.30999755859375,
+        "stop_loss": 190.26123213221913,
+        "breakout_date": "2026-10-16",
+        "humble_date": "2026-10-28",
+        "entry_date": "2026-10-30",
+        "support_level": "EMA10",
+        "breakout_high": 197.25
       }
     ]
   },
@@ -379,7 +603,12 @@
         "symbol": "ACUTAAS",
         "breakout_date": "2026-10-26",
         "support_level": "EMA10",
-        "breakout_high": 4032.199951171875
+        "breakout_high": 4045.300048828125
+      },
+      {
+        "symbol": "AFFLE",
+        "breakout_date": "2026-11-02",
+        "breakout_high": 1600.0
       },
       {
         "symbol": "BSOFT",
@@ -421,7 +650,7 @@
         "symbol": "INDHOTEL",
         "breakout_date": "2026-10-19",
         "support_level": "EMA10",
-        "breakout_high": 824.4000244140625
+        "breakout_high": 836.0499877929688
       },
       {
         "symbol": "ITCHOTELS",
@@ -439,17 +668,29 @@
         "symbol": "LTTS",
         "breakout_date": "2026-10-19",
         "support_level": "EMA10",
-        "breakout_high": 4297.39990234375
+        "breakout_high": 4347.39990234375
+      },
+      {
+        "symbol": "MSUMI",
+        "breakout_date": "2026-11-02",
+        "breakout_high": 40.099998474121094
       },
       {
         "symbol": "PPLPHARMA",
         "breakout_date": "2026-10-26",
-        "breakout_high": 240.0
+        "support_level": "EMA10",
+        "breakout_high": 243.1999969482422
+      },
+      {
+        "symbol": "RELIANCE",
+        "breakout_date": "2026-11-02",
+        "breakout_high": 1307.9000244140625
       },
       {
         "symbol": "SONACOMS",
         "breakout_date": "2026-10-26",
-        "breakout_high": 899.0
+        "support_level": "EMA10",
+        "breakout_high": 911.25
       },
       {
         "symbol": "SPLPETRO",
@@ -480,13 +721,29 @@
         "breakout_date": "2026-10-12",
         "support_level": "EMA10",
         "breakout_high": 1845.0
+      },
+      {
+        "symbol": "ZENTEC",
+        "breakout_date": "2026-11-02",
+        "support_level": "EMA10",
+        "breakout_high": 1805.699951171875
       }
     ],
     "in_trade": [
       {
+        "symbol": "ATHERENERG",
+        "entry_price": 1756.0,
+        "stop_loss": 1556.3418128337566,
+        "breakout_date": "2026-04-06",
+        "humble_date": "2026-09-21",
+        "entry_date": "2026-10-26",
+        "support_level": "EMA10",
+        "breakout_high": 1744.0
+      },
+      {
         "symbol": "COFORGE",
         "entry_price": 1826.0,
-        "stop_loss": 1882.4703130253129,
+        "stop_loss": 1914.8939013530967,
         "breakout_date": "2026-07-27",
         "humble_date": "2026-09-21",
         "entry_date": "2026-09-28",
@@ -494,9 +751,19 @@
         "breakout_high": 2021.199951171875
       },
       {
+        "symbol": "DIVISLAB",
+        "entry_price": 9780.0,
+        "stop_loss": 9291.3134858193,
+        "breakout_date": "2026-07-13",
+        "humble_date": "2026-10-12",
+        "entry_date": "2026-10-26",
+        "support_level": "EMA10",
+        "breakout_high": 9740.0
+      },
+      {
         "symbol": "GABRIEL",
         "entry_price": 1386.699951171875,
-        "stop_loss": 1377.7641043515132,
+        "stop_loss": 1382.0069900304993,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-08-24",
         "entry_date": "2026-09-21",
@@ -514,19 +781,19 @@
         "breakout_high": 2195.0
       },
       {
-        "symbol": "KARURVYSYA",
-        "entry_price": 339.8999938964844,
-        "stop_loss": 339.57094715012624,
-        "breakout_date": "2026-07-20",
-        "humble_date": "2026-09-07",
-        "entry_date": "2026-10-05",
+        "symbol": "LAURUSLABS",
+        "entry_price": 2405.5,
+        "stop_loss": 2075.8340945846985,
+        "breakout_date": "2026-05-04",
+        "humble_date": "2026-10-19",
+        "entry_date": "2026-10-26",
         "support_level": "EMA10",
-        "breakout_high": 358.6499938964844
+        "breakout_high": 2089.0
       },
       {
         "symbol": "PTCIL",
         "entry_price": 19076.0,
-        "stop_loss": 22860.29527623226,
+        "stop_loss": 23052.968862371847,
         "breakout_date": "2026-06-01",
         "humble_date": "2026-06-22",
         "entry_date": "2026-08-03",
@@ -536,7 +803,7 @@
       {
         "symbol": "PVRINOX",
         "entry_price": 1327.199951171875,
-        "stop_loss": 1321.1937269949585,
+        "stop_loss": 1358.067594814057,
         "breakout_date": "2026-07-20",
         "humble_date": "2026-09-28",
         "entry_date": "2026-10-05",
@@ -556,7 +823,7 @@
       {
         "symbol": "WELSPUNLIV",
         "entry_price": 189.22000122070312,
-        "stop_loss": 210.85922155807216,
+        "stop_loss": 218.53754424531186,
         "breakout_date": "2026-06-15",
         "humble_date": "2026-07-27",
         "entry_date": "2026-08-17",
